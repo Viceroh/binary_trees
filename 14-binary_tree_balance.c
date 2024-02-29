@@ -10,8 +10,8 @@ int max(int a, int b)
 	return (a > b ? a : b);
 }
 /**
- * height - gets tge  height of binary tree
- * @tree: pointer to thee noodee 
+ * height - get  height of binary tree
+ * @tree: pointer to the node
  * Return: the height
 */
 int height(const binary_tree_t *tree)
